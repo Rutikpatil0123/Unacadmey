@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+ // git add
+
 void half_pyramid(int n){
 
     for(int i = 1; i <= n; i++){
